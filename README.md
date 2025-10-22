@@ -37,21 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenagabrielly&show_icons=true&theme=tokyonight" alt="Lorena's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenagabrielly&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-### 🧩 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenagabrielly&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/lorenagabrielly" target="_blank">
