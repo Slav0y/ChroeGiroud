@@ -18,17 +18,21 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenagabrielly&show_icons=true&theme=tokyonight" alt="Lorena's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenagabrielly&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ---
 
-### 🧩 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenagabrielly&layout=compact&theme=tokyonight" alt="Top Langs" />
+### 🗣️ Languages I Speak  
+<p align="left">
+  <img src="https://flagcdn.com/w20/gb.png" width="25"/> <b>English:</b> Advanced  
+  <br>
+  <img src="https://flagcdn.com/w20/ru.png" width="25"/> <b>Russian:</b> Advanced  
+  <br>
+  <img src="https://flagcdn.com/w20/es.png" width="25"/> <b>Spanish:</b> Intermediate  
+</p>
+
+<p align="left">
+  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="35"/>
+  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="35"/>
+  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="35"/>
 </p>
 
 ---
