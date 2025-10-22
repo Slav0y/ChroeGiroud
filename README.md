@@ -13,16 +13,19 @@
 
 ### 🗣️ Languages I Speak
 <p align="left">
-  <img src="https://flagcdn.com/w20/gb.png" width="22" alt="UK flag"/> <strong>English:</strong> Advanced
-  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="waving gif" style="margin-left:8px"/>
+  <img src="https://flagcdn.com/w20/gb.png" width="22" alt="UK flag"/> 
+  <strong>English:</strong> Advanced  
+  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="flag gif" style="margin-left:6px"/>
   <br><br>
 
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="22" alt="Russia flag"/> <strong>Russian:</strong> Advanced
-  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="waving gif" style="margin-left:8px"/>
+  <img src="https://flagcdn.com/w20/ru.png" width="22" alt="Russia flag"/> 
+  <strong>Russian:</strong> Advanced  
+  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="flag gif" style="margin-left:6px"/>
   <br><br>
 
-  <img src="https://flagcdn.com/w20/es.png" width="22" alt="Spain flag"/> <strong>Spanish:</strong> Intermediate
-  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="waving gif" style="margin-left:8px"/>
+  <img src="https://flagcdn.com/w20/es.png" width="22" alt="Spain flag"/> 
+  <strong>Spanish:</strong> Intermediate  
+  <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="flag gif" style="margin-left:6px"/>
 </p>
 
 ---
@@ -69,11 +72,5 @@
 
 <p align="center">
   <i>Built with ❤️ and strategy by Lorena — delivering advanced software and consulting excellence worldwide.</i>
-</p>
-
----
-
-<p align="center">
-  <i> delivering advanced software and consulting excellence worldwide.</i>
 </p>
 
