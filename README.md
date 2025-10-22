@@ -56,7 +56,7 @@
 > “Build boldly. Consult wisely. Lead with vision.”
 
 <p align="center">
-  <i>Built with ❤️ and strategy by Lorena — delivering advanced software and consulting excellence worldwide.</i>
+  <i> delivering advanced software and consulting excellence worldwide.</i>
 </p>
 
 
