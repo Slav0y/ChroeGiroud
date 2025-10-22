@@ -23,3 +23,61 @@
   <a href="https://open.spotify.com/user/lvsb2x1lio7nz1fgz3gmi8er3?si=242f3174d2c84559" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
   </div> 
+  <h1 align="center">Hi, I'm Lorena 👋</h1>
+<h3 align="center">Full-Stack Developer | Consultant | Tech Enthusiast</h3>
+
+---
+
+### 🧠 About Me  
+- 🔭 Currently working on improving my **consulting and development skills**  
+- 🌱 Learning more about **cloud services, automation, and data analytics**  
+- 💬 Ask me about **business strategy, web development, or tech trends**  
+- ⚡ Fun fact: I love creating organized, beautiful digital environments  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,nodejs,html,css,git,github,vscode,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teuusuario&show_icons=true&theme=tokyonight" alt="Lorena's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teuusuario&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+### 🧩 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuusuario&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/teulinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:teuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://teuwebsite.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Motto
+> “Code with clarity. Design with purpose. Lead with passion.”
+
+---
+
+<p align="center">
+  <i>Built with ❤️ by Lorena</i>
+</p>
