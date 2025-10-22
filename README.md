@@ -24,8 +24,10 @@
 <p align="left">
   <img src="https://flagcdn.com/w20/gb.png" width="25"/> <b>English:</b> Advanced  
   <br>
+  
   <img src="https://flagcdn.com/w20/ru.png" width="25"/> <b>Russian:</b> Advanced  
   <br>
+  
   <img src="https://flagcdn.com/w20/es.png" width="25"/> <b>Spanish:</b> Intermediate  
 </p>
 
