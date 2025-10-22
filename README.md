@@ -23,7 +23,7 @@
   <img src="https://flagcdn.com/w20/gb.png" width="22" alt="UK flag"/> <strong>English:</strong> Advanced
   <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="waving gif" style="margin-left:8px"/>
   <br><br>
-  <img src="https://flagcdn.com/w20/ru.png" width="22" alt="Russia flag"/> <strong> Russian:</strong> Advanced
+  <img src="https://flagcdn.com/w20/ru.png" width="22" alt="Russia flag"/> <strong>Russian:</strong> Advanced
   <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="waving gif" style="margin-left:8px"/>
   <br><br>
   <img src="https://flagcdn.com/w20/es.png" width="22" alt="Spain flag"/> <strong>Spanish:</strong> Intermediate
