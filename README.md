@@ -28,7 +28,7 @@
   <img src="https://flagcdn.com/w20/ru.png" width="25"/> <b>Russian:</b> Advanced  
   <br>
   
-  <img src="https://flagcdn.com/w20/es.png" width="25"/> <b>Spanish:</b> Intermediate  
+<img src="https://flagcdn.com/w20/es.png" width="25"/> <b>Spanish:</b> Intermediate  
 </p>
 
 <p align="left">
