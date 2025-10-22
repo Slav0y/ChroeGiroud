@@ -1,7 +1,7 @@
 <div align="center">
  <a href="https://github.com/Slav0y">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=chroegiroud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroegiroud&layout=compact&langs_count=7&theme=dark"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LorenaLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoresnaLopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   
   <div>
     
-  <a href="https://www.instagram.com/chloe_giroudd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lorena.gyr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:chllroe.comerciall@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/lvsb2x1lio7nz1fgz3gmi8er3?si=242f3174d2c84559" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
