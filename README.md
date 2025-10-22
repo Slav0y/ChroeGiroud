@@ -29,6 +29,7 @@
   <img src="https://flagcdn.com/w20/es.png" width="22" alt="Spain flag"/> <strong>Spanish:</strong> Intermediate
   <img src="https://media.tenor.com/fxgVfJ7SlDUAAAAj/flag-waving.gif" width="26" alt="waving gif" style="margin-left:8px"/>
 </p>
+
 ---
 
 ### 🌐 Connect with Me  
